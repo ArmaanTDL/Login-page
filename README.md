@@ -3,8 +3,7 @@
 ## Description
 A React application demonstrating state management using:
 - Context API for Authentication
-- Redux Toolkit for Product Catalog and Cart
-
+- Redux Toolkit for Product Catalog & cart
 ## Features
 - Role-based login (Admin / User)
 - Admin can manage products
