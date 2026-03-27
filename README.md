@@ -11,7 +11,6 @@ A React application demonstrating state management using:
 - Users can add/remove products from cart
 - Clean and simple UI
 
-
 ## Tech Stack
 - React
 - Redux Toolkit
